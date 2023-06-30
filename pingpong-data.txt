@@ -1,0 +1,23 @@
+Marca temporal+Name+e-mail+When could you participate in the tournament? Please select the dates that you are sure you can go to HITS at least three days each week.+In which modality do you want to participate?+In case you want to participate in the doubles tournament, who will be your teammate?
+2/06/2023 9:47:19+Giovanni Leidi+leidigiovanni915@gmail.com+July 10-21, July 17-28+Singles+
+2/06/2023 9:53:32+Anna Piras+anna.piras@h-its.org+July 03-14, July 10-21, July 17-28+Singles+
+2/06/2023 10:10:49+Anthony Noll+anthony.noll@h-its.org+July 03-14, July 10-21+Singles, Doubles+Quentin Coppée
+2/06/2023 11:11:24+Kai Riedmiller+kai.riedmiller@h-its.org+July 03-14+Singles+
+2/06/2023 13:09:57+Daniel Sucerquia+dsucerg@gmail.com+July 03-14+Singles, Doubles+Saber Bushehri
+2/06/2023 16:05:43+Marcus Buchwald+marcus.buchwald@h-its.org+July 03-14, July 10-21, July 17-28+Singles, Doubles+Valentin Schmid
+2/06/2023 16:06:09+Valentin Schmid+valentin.schmid@h-its.org+July 03-14, July 10-21, July 17-28+Singles, Doubles+Marcus Buchwald
+6/06/2023 13:12:45+Simon Kreuzer+simon.kreuzer@h-its.org+July 10-21, July 17-28+Singles, Doubles+Norbert Rabes
+6/06/2023 13:14:22+Norbert Rabes+Norbert.Rabes@h-its.org+July 10-21, July 17-28+Singles, Doubles+Simon Kreuzer
+7/06/2023 13:19:14+Javier Moran+javier.moranfraile@h-its.org+July 17-28+Singles+
+7/06/2023 13:21:53+Haas, Harald+harald.haas@h-its.org+July 03-14, July 10-21, July 17-28+Singles, Doubles+NN
+9/06/2023 13:50:10+Anil Ananthaswamy+anil.ananthaswamy@h-its.org+July 17-28+Singles+
+12/06/2023 12:26:04+Jannik+jannik.buhr@h-its.org+July 03-14+Singles, Doubles+Saber
+13/06/2023 16:09:54+Eric+eric.hartmann@h-its.org+July 03-14+Singles, Doubles+Leif
+13/06/2023 17:32:05+Leif Seute+leif.seute@h-its.org+July 03-14+Singles, Doubles+Eric Hartmann
+14/06/2023 9:52:49+Johannes Resin+johannes.resin@h-its.org+July 10-21, July 17-28+Singles, Doubles+Marc-Oliver Pohle
+14/06/2023 14:35:02+Kiril Maltsev+kiril.maltsev@h-its.org+July 03-14, July 10-21, July 17-28+Singles+
+15/06/2023 11:51:03+Marc-Oliver Pohle+marc-oliver.pohle@h-its.org+July 03-14, July 10-21, July 17-28+Singles, Doubles+Johannes Resin
+15/06/2023 14:51:20+saber boushehri+saber.boushehri@h-its.org+July 03-14+Singles, Doubles+Jannik
+16/06/2023 9:33:49+Wei Liu+wei.liu@h-its.org+July 17-28+Singles, Doubles+I don't have a teammate. If anyone who also doesn't have teammate, we can play together.
+16/06/2023 15:42:58+Quentin Coppée+quentin.coppee@h-its.org+July 03-14, July 10-21+Singles, Doubles+Anthony Noll
+20/06/2023 9:37:33+Andreas Ulrich+andreas.ulrich@h-its.org+July 10-21, July 17-28+Singles+
