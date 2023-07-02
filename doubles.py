@@ -9,4 +9,4 @@ teams = ["Anthony-Quentin",
 
 ngroups = 1
 
-create_tables(teams, ngroups)
+create_tables(teams, ngroups, "Doubles")
